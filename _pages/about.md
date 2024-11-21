@@ -15,9 +15,9 @@ You can find my CV [here](/files/CV_XIANGYU_YIN.pdf).
 
 Research Highlights
 ======
-## [Smartphone-based Acoustic Sensing for Pulmonary Disease Evaluation](https://pittisl.github.io/publication/2023-ptease/)
+[**Smartphone-based Acoustic Sensing for Pulmonary Disease Evaluation**](https://pittisl.github.io/publication/2023-ptease/)
 
-We developed a mobile health system that turns a commodity smartphone into a fully functional pulmonary examination device that measures the internal physiological conditions of human airways via acoustic sensing through mouth. Since 2020, our integrated AI and sensing systems, namely **PTEase** or Acoustic Waveform Respiratory Evaluation (**AWARE**), have been applied to and tested on more than 400 patients with various pulmonary diseases at the Children's Hospital of Pittsburgh. Our work was published at [SenSys'22](https://doi.org/10.1145/3560905.3568437) and [MobiSys'23](https://doi.org/10.1145/3581791.3596854). We also published the [dataset](https://huggingface.co/datasets/ericyxy98/AWARE) of human airway measurements, containing airway measurements of 382 human subjects with various pulmonary diseases and healthy control subjects collected over the past years. 
+We developed a mobile health system that turns a commodity smartphone into a fully functional pulmonary examination device that measures the internal physiological conditions of human airways via acoustic sensing through mouth. Since 2020, our integrated AI and sensing systems, namely **PTEase** or Acoustic Waveform Respiratory Evaluation (**AWARE**), have been applied to and tested on more than 400 patients with various pulmonary diseases at the Children's Hospital of Pittsburgh. Our work was published at [SenSys'22 Workshop](https://doi.org/10.1145/3560905.3568437) and [MobiSys'23](https://doi.org/10.1145/3581791.3596854). We also published the [dataset](https://huggingface.co/datasets/ericyxy98/AWARE) of human airway measurements, containing airway measurements of 382 human subjects with various pulmonary diseases and healthy control subjects collected over the past years. This is an ongoing project and we are continually recruiting new human subjects and collecting more comprehensive health information for further analysis.
 
 Publications
 ======
